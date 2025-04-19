@@ -18,6 +18,7 @@ DAI:0x456...
 
 nano .env  
 RPCS=Seismic=https://rpc.seismic.xyz,ETHFLUENT=https://rpc.ethfluent.xyz,ETHRISE=https://rpc.ethrise.xyz
+bisa di costum nama sesuai sc token dari masing masing rpc
 
 ## eksekusi  
 node index.js
