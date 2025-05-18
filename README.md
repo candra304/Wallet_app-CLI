@@ -6,7 +6,7 @@
   
 ## clone
 ```
-git clone https://github.com/candra304/Wallet_app-CLI.git
+git clone https://github.com/candra304/Wallet_app-CLI.git && cd Wallet_app-CLI
 ```
 ## instalasi  
 ```
